@@ -1,5 +1,5 @@
 # Real-Time-Drowsy-detection-and-alarming-system
--OpenCV 와 Dlib을 이용한 졸음운전감지 및 졸음시 경고음 울림 종합설계 프로젝트
+- OpenCV 와 Dlib을 이용한 졸음운전감지 및 졸음시 경고음 울림 종합설계 프로젝트
 
 ## 🗓️ 프로젝트 기간
 - 2021.09 ~ 2021.12 (3개월)
